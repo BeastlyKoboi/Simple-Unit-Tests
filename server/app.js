@@ -1,5 +1,5 @@
 const http = require('http');
-const mathUtils = require('./utils/math.js'); 
+const mathUtils = require('./utils/math.js');
 
 const port = process.env.PORT || process.env.NODE_PORT || 3000;
 
